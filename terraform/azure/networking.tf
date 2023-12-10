@@ -138,6 +138,7 @@ resource azurerm_network_watcher_flow_log "flow_log" {
     days    = 10
   }
   tags = {
-    keyyy1 = "valueeeee"
+    keyyy1    = "valueeeee"
+    yor_trace = "59e8aee4-2ba5-460e-8e0f-d04e1894d8c4"
   }
 }
